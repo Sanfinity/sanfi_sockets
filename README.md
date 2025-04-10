@@ -3,6 +3,7 @@
 **sanfi-sockets** is a collection of sample programs designed to help you learn and understand **WebSockets** in depth. This repository walks through basic to advanced concepts using hands-on code examples.
 
 This is just a websocket exploring repository that contains some sample scripts that I've used to learn. 
+
 ---
 
 ## 🌐 What are WebSockets?
