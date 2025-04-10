@@ -185,3 +185,7 @@ Used in **monitoring dashboards**, **real-time logs**, and **IoT backends**.
 Used in **live chat widgets**, **collaborative editing**, and **push notifications** for PHP-based platforms.
 
 ---
+
+## 📔 References:
+- https://websockets.readthedocs.io/en/stable/intro/tutorial1.html
+- https://www.youtube.com/watch?v=8ARodQ4Wlf4
